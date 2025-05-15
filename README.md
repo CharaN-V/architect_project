@@ -57,7 +57,7 @@ Analytics: Performance metrics
 Settings: User preferences
 The interface prioritizes usability with:
 
-#Setup Instructions
+#Setup_Instructions
 Pull the code to the local repository.
 Install the node js as its required to run the app.
 Also install the vite which is a tool that has inbuilt languages for fater running.
